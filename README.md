@@ -1,17 +1,31 @@
 👋 Hey, I'm Bhanu Prasad
-🎓 3rd Year B.E. Data Science Student | 🤖 AI & GenAI | 🌐 Web Development | ⚡ Automation
+🎓 3rd Year B.E. Data Science Student
+
+🤖 AI & GenAI | 📊 Data Science | 🌐 Web Development | ⚡ Automation
 
 I’m a 3rd-year B.E. Data Science student who enjoys turning ideas into working products.
 
-My interests sit at the intersection of Data Science, Artificial Intelligence, Web Development, and Automation. I like experimenting with new technologies, building prototypes, and finding ways to make applications more useful, interactive, and intelligent.
+My interests sit at the intersection of Data Science, Artificial Intelligence, Web Development, and Automation. I like experimenting with new technologies, building prototypes, and creating applications that are useful, interactive, and intelligent.
 
-I learn best by building, breaking, experimenting, and building again.
+I learn best by building, experimenting, and improving.
 
 🚀 What I Do
-📊 Data Science & Analytics — exploring data, visualization, ML, and business intelligence.
-🤖 AI & GenAI — building with LLMs, RAG, AI Agents, and AI-powered applications.
-🌐 Web Development — creating modern, interactive, and visually engaging web experiences.
-⚡ Automation — connecting AI, APIs, and workflows to automate real-world tasks.
+📊 Data Science & Analytics
+
+Exploring data analysis, visualization, machine learning, and business intelligence.
+
+🤖 AI & GenAI
+
+Building and experimenting with LLMs, RAG, AI Agents, and AI-powered applications.
+
+🌐 Web Development
+
+Creating modern, interactive, and visually engaging web experiences.
+
+⚡ Automation
+
+Connecting AI, APIs, and workflows to automate real-world tasks.
+
 🛠️ Tech Stack
 💻 Languages
 
@@ -29,18 +43,18 @@ I learn best by building, breaking, experimenting, and building again.
 
 
 
-Pandas NumPy Matplotlib Seaborn Plotly SQL EDA Data Visualization Machine Learning
+Pandas • NumPy • Matplotlib • Seaborn • Plotly • SQL • EDA • Data Visualization • Machine Learning
 
 🤖 AI / GenAI
 
-Generative AI LLMs RAG AI Agents Prompt Engineering Embeddings Vector Search Conversational AI
+Generative AI • LLMs • RAG • AI Agents • Prompt Engineering • Embeddings • Vector Search • Conversational AI
 
 ⚡ AI & Automation
 
 
 
 
-Gemini n8n APIs Webhooks AI Workflows Automation
+Gemini • n8n • APIs • Webhooks • AI Workflows • Automation
 
 🌐 Web Development
 
@@ -49,7 +63,7 @@ Gemini n8n APIs Webhooks AI Workflows Automation
 
 
 
-HTML CSS JavaScript React Next.js Streamlit Flask UI/UX
+HTML • CSS • JavaScript • React • Next.js • Streamlit • Flask • UI/UX
 
 🗄️ Databases & Tools
 
@@ -59,14 +73,14 @@ HTML CSS JavaScript React Next.js Streamlit Flask UI/UX
 
 
 
-MongoDB Pinecone Supabase SQLite Git GitHub Vercel
+MongoDB • Pinecone • Supabase • SQLite • Git • GitHub • Vercel
 
 🚀 Featured Projects
 📊 BizViz
 
 Business Intelligence project focused on turning data into interactive visualizations and useful insights.
 
-Data Analytics BI AI Data Visualization
+Data Analytics Business Intelligence AI Data Visualization
 
 📧 Gmail Intelli Dashboard
 
@@ -85,15 +99,15 @@ n8n AI Automation APIs Webhooks
 🏨 Hostel Management System — student, fee and reminder management.
 🏠 Construction Platform — interactive construction/project showcase.
 🌱 Currently Learning
-
 🐍 Advanced Python
 🗣️ Communication & English Fluency
 🤖 LLM Applications • RAG • AI Agents • AI Automation
-
 🎯 My Direction
 AI × Data × Web × Automation
 
-I’m working toward becoming a developer who can take an idea from problem → data → AI → application → automation → product.
+Working toward becoming a developer who can take an idea from:
+
+Problem → Data → AI → Application → Automation → Product
 
 📈 GitHub Stats
 
@@ -106,8 +120,9 @@ I’m working toward becoming a developer who can take an idea from problem → 
 </p>
 
 🤝 Let's Connect
+💼 Open to
 
-💼 Open to: Internships • Collaborations • Hackathons • Open Source • AI Projects
+Internships • Collaborations • Hackathons • Open Source • AI Projects
 
 LinkedIn: YOUR_LINKEDIN
 Portfolio: YOUR_PORTFOLIO
