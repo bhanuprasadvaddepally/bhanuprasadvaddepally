@@ -131,7 +131,7 @@ Working toward becoming a developer who can take an idea from:
 
 **LinkedIn:** 
 https://www.linkedin.com/in/bhanu-prasad-vaddepally
-**Email:** `YOUR_EMAIL`
+**Email:** `vaddepallybhanuprasad999@gmail.com`
 
 ---
 
